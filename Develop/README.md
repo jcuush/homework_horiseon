@@ -1,0 +1,3 @@
+# homework_horiseon
+
+The homework assignment was that we were given a website and needed to clean up the code on the HTML and CSS side.  From this homework I learned how to condense the CSS to work more efficiently without unnecessary lines of code.  In addition it was helpful to practice working on a working website and checking changes that were made to ensure that the final product looked correctly and that the code would not break.  In addition as this was the first homework it was good practice on how to properly upload repos to github and push items from the local computer to the server.
